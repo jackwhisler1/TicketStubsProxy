@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sRe6y9JV1T0ZDDxkiI1JV8arX29VZnYWqnZsa3L5NqI=",
+  "Source": "TicketStubsProxy",
+  "BasePath": "_content/TicketStubsProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

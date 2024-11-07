@@ -1,0 +1,6 @@
+@TicketStubsProxy_HostAddress = http://localhost:5181
+
+GET {{TicketStubsProxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
